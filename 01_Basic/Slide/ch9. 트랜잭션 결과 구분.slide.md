@@ -11,5 +11,3 @@
 ### 슬라이드 3: “실패해도 남는 것 4가지”
 - gas / receipt / trace / intent
 
----
-
