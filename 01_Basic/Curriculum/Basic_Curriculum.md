@@ -2,7 +2,7 @@
 
 기준 문서:
 - `00_Governance/Qualification_Management_and_Operation_Regulations.md`
-- `01_Basic/Lecture_Note/*`
+- `01_Basic/Lecture_Material/*`
 
 ## 1. 과정 정의
 - 등급: Basic
@@ -40,3 +40,4 @@
 ## 4. Basic 범위 한정
 - 본 과정은 Basic 범위만 다룬다.
 - Associate/Professional의 설계 책임, 고급 거버넌스 설계, 운영 정책 수립은 포함하지 않는다.
+

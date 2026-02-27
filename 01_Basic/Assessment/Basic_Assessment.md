@@ -2,7 +2,7 @@
 
 기준 문서:
 - `00_Governance/Qualification_Management_and_Operation_Regulations.md`
-- `01_Basic/Lecture_Note/*`
+- `01_Basic/Lecture_Material/*`
 
 ## 1. 검정 방식
 - 등급: Basic
@@ -44,3 +44,4 @@
 - Lecture Note에 없는 세부 구현/개발 문항은 출제하지 않는다.
 - 용어 암기보다 구조 해석 문항을 우선한다.
 - 오답 유도는 사실 왜곡이 아닌 개념 구분(예: 지갑 vs 주소, 실패 vs 무효)으로 설계한다.
+
